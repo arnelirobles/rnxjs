@@ -18,7 +18,8 @@
       "Bash(npm run test:*)",
       "Bash(ls:*)",
       "Bash(xargs -I {} sh -c 'echo \"\"=== {} ===\"\" && head -20 {}')",
-      "Bash(npm run test:coverage:*)"
+      "Bash(npm run test:coverage:*)",
+      "Bash(paste:*)"
     ]
   }
 }
