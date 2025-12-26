@@ -16,7 +16,9 @@
       "Bash(npm install:*)",
       "Bash(find:*)",
       "Bash(npm run test:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(xargs -I {} sh -c 'echo \"\"=== {} ===\"\" && head -20 {}')",
+      "Bash(npm run test:coverage:*)"
     ]
   }
 }
