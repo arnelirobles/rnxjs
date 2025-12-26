@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm test:*)",
+      "Bash(wc:*)",
+      "Bash(cat:*)",
+      "Bash(npm audit:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm run build:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git tag:*)",
+      "Bash(node -e:*)",
+      "Bash(git reset:*)",
+      "Bash(curl:*)"
+    ]
+  }
+}
