@@ -12,7 +12,9 @@
       "Bash(git tag:*)",
       "Bash(node -e:*)",
       "Bash(git reset:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(npm install:*)",
+      "Bash(find:*)"
     ]
   }
 }
